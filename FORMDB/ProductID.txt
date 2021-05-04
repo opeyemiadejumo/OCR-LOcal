@@ -1,0 +1,9 @@
+ # Product ID Table
+ # Each line defines a Product ID for COVID requirement
+ # Product ID is 7 or 11 digits
+ # Empty line or line starts with space will be skipped.
+
+59267100001
+80777027310
+00310122210
+80777027315

@@ -1,0 +1,40 @@
+ # Holiday Table
+ # Each line defines a holiday: MMDDYYYY,Holiday Name
+ # 8-digits date and holiday name is separated by a comma.
+ # Empty line or line starts with space will be skipped.
+
+ # 2018 Holidays
+01012018,New Year
+01152018,MLK Day
+02192018,Presidents Day
+05282018,Memorial Day
+07042018,Independent Day
+09032018,Labor Day
+10082018,Columbus Day
+11122018,Veterans Day
+11222018,Thanksgiving
+12252018,Christmas
+
+ # 2019 Holidays
+01012019,New Year
+01212019,MLK Day
+02182019,Presidents Day
+05272019,Memorial Day
+07042019,Independent Day
+09022019,Labor Day
+10142019,Columbus Day
+11112019,Veterans Day
+11282019,Thanksgiving
+12252019,Christmas
+
+ # 2020 Holidays
+01012020,New Year
+01202020,MLK Day
+02172020,Presidents Day
+05252020,Memorial Day
+07032020,Independent Day (Observed)
+09072020,Labor Day
+10122020,Columbus Day
+11112020,Veterans Day
+11262020,Thanksgiving
+12252020,Christmas

@@ -1,0 +1,20 @@
+ # Holiday Table
+ # Each line defines a holiday: MMDDYYYY,Holiday Name
+ # 8-digits date and holiday name is separated by a comma.
+05282018,Memorial Day
+07042018,Independent Day
+09032018,Labor Day
+11112018,Veterans Day
+11222018,Thanksgiving
+11232018,Day After Thanksgiving
+12252018,Christmas
+01012019,New Year
+01212019,MLK Day
+02182019,President Day
+05272019,Memorial Day
+07042019,Independent Day
+09022019,Labor Day
+11112019,Veterans Day
+11282019,Thanksgiving
+11292019,Day After Thanksgiving
+12252019,Christmas
